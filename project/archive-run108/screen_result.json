@@ -1,0 +1,1417 @@
+{
+ "folder": "/Volumes/T7/Qwen_Homoplankton/PlanktonTest",
+ "total": 108,
+ "counts": {
+  "keep": 108,
+  "drop": 0,
+  "review": 0
+ },
+ "keep": [
+  {
+   "file": "DSC_0077.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.7791,
+    "sat_lit": 0.0198,
+    "lit": 0.2098,
+    "dark_blue": 1.0738
+   }
+  },
+  {
+   "file": "DSC_0214.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.8561,
+    "sat_lit": 0.0093,
+    "lit": 0.0929,
+    "dark_blue": 2.3665
+   }
+  },
+  {
+   "file": "DSC_0242.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9998,
+    "edge_med": 0.0,
+    "whole_dark": 0.853,
+    "sat_lit": 0.0027,
+    "lit": 0.1027,
+    "dark_blue": 2.056
+   }
+  },
+  {
+   "file": "DSC_0361.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9991,
+    "edge_med": 1.929,
+    "whole_dark": 0.8232,
+    "sat_lit": 0.0008,
+    "lit": 0.1544,
+    "dark_blue": 2.2512
+   }
+  },
+  {
+   "file": "DSC_0388.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.85,
+    "sat_lit": 0.0003,
+    "lit": 0.1264,
+    "dark_blue": 1.3231
+   }
+  },
+  {
+   "file": "DSC_0860-Edit.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9985,
+    "edge_med": 0.0,
+    "whole_dark": 0.9416,
+    "sat_lit": 0.0006,
+    "lit": 0.0284,
+    "dark_blue": 1.6585
+   }
+  },
+  {
+   "file": "DSC_0863.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.8969,
+    "sat_lit": 0.0025,
+    "lit": 0.0633,
+    "dark_blue": 1.8841
+   }
+  },
+  {
+   "file": "DSC_0878-Edit.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.896,
+    "sat_lit": 0.0878,
+    "lit": 0.0905,
+    "dark_blue": 0.6733
+   }
+  },
+  {
+   "file": "DSC_0880.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9974,
+    "edge_med": 0.0,
+    "whole_dark": 0.8732,
+    "sat_lit": 0.1067,
+    "lit": 0.1172,
+    "dark_blue": 0.9777
+   }
+  },
+  {
+   "file": "DSC_0913.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9983,
+    "edge_med": 0.0,
+    "whole_dark": 0.8773,
+    "sat_lit": 0.0008,
+    "lit": 0.0662,
+    "dark_blue": 2.0971
+   }
+  },
+  {
+   "file": "DSC_0933.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.8568,
+    "sat_lit": 0.0005,
+    "lit": 0.0802,
+    "dark_blue": 1.5332
+   }
+  },
+  {
+   "file": "DSC_1010.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.999,
+    "edge_med": 0.228,
+    "whole_dark": 0.9043,
+    "sat_lit": 0.0154,
+    "lit": 0.0659,
+    "dark_blue": 2.9095
+   }
+  },
+  {
+   "file": "DSC_1011.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9994,
+    "edge_med": 0.0,
+    "whole_dark": 0.897,
+    "sat_lit": 0.018,
+    "lit": 0.0578,
+    "dark_blue": 2.9859
+   }
+  },
+  {
+   "file": "DSC_1048_2019-December-Fish.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9957,
+    "edge_med": 2.0,
+    "whole_dark": 0.7984,
+    "sat_lit": 0.0,
+    "lit": 0.1377,
+    "dark_blue": 1.3149
+   }
+  },
+  {
+   "file": "DSC_1060.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9978,
+    "edge_med": 3.858,
+    "whole_dark": 0.8879,
+    "sat_lit": 0.0195,
+    "lit": 0.0865,
+    "dark_blue": 2.6166
+   }
+  },
+  {
+   "file": "DSC_1062.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9996,
+    "edge_med": 2.157,
+    "whole_dark": 0.8977,
+    "sat_lit": 0.0158,
+    "lit": 0.0626,
+    "dark_blue": 3.2878
+   }
+  },
+  {
+   "file": "DSC_1079-Edit1.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9996,
+    "edge_med": 0.0,
+    "whole_dark": 0.8841,
+    "sat_lit": 0.0027,
+    "lit": 0.0754,
+    "dark_blue": 1.2673
+   }
+  },
+  {
+   "file": "DSC_1106.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.8629,
+    "sat_lit": 0.0009,
+    "lit": 0.111,
+    "dark_blue": 1.558
+   }
+  },
+  {
+   "file": "DSC_1125.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9987,
+    "edge_med": 3.114,
+    "whole_dark": 0.7748,
+    "sat_lit": 0.0002,
+    "lit": 0.1174,
+    "dark_blue": 1.5102
+   }
+  },
+  {
+   "file": "DSC_1189.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9934,
+    "edge_med": 0.0,
+    "whole_dark": 0.6702,
+    "sat_lit": 0.0109,
+    "lit": 0.1731,
+    "dark_blue": 1.8089
+   }
+  },
+  {
+   "file": "DSC_1202.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.7956,
+    "sat_lit": 0.0028,
+    "lit": 0.1283,
+    "dark_blue": 1.8813
+   }
+  },
+  {
+   "file": "DSC_1226.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9836,
+    "edge_med": 0.0,
+    "whole_dark": 0.7528,
+    "sat_lit": 0.0006,
+    "lit": 0.1758,
+    "dark_blue": 1.4653
+   }
+  },
+  {
+   "file": "DSC_1238.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.8502,
+    "sat_lit": 0.0327,
+    "lit": 0.0613,
+    "dark_blue": 5.1032
+   }
+  },
+  {
+   "file": "DSC_1268.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9997,
+    "edge_med": 0.0,
+    "whole_dark": 0.8864,
+    "sat_lit": 0.0098,
+    "lit": 0.0799,
+    "dark_blue": 2.1983
+   }
+  },
+  {
+   "file": "DSC_1273.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.114,
+    "whole_dark": 0.878,
+    "sat_lit": 0.0057,
+    "lit": 0.0827,
+    "dark_blue": 2.4863
+   }
+  },
+  {
+   "file": "DSC_1278_2019-September-Cephalopoda.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.843,
+    "sat_lit": 0.0114,
+    "lit": 0.1498,
+    "dark_blue": 4.1081
+   }
+  },
+  {
+   "file": "DSC_1296.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9995,
+    "edge_med": 3.673,
+    "whole_dark": 0.8704,
+    "sat_lit": 0.0255,
+    "lit": 0.1208,
+    "dark_blue": 7.2566
+   }
+  },
+  {
+   "file": "DSC_1297.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9997,
+    "edge_med": 1.228,
+    "whole_dark": 0.7901,
+    "sat_lit": 0.0002,
+    "lit": 0.1408,
+    "dark_blue": 1.8153
+   }
+  },
+  {
+   "file": "DSC_1329.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9994,
+    "edge_med": 2.456,
+    "whole_dark": 0.8184,
+    "sat_lit": 0.0004,
+    "lit": 0.1275,
+    "dark_blue": 2.3768
+   }
+  },
+  {
+   "file": "DSC_1332.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.8763,
+    "sat_lit": 0.0051,
+    "lit": 0.0798,
+    "dark_blue": 1.6118
+   }
+  },
+  {
+   "file": "DSC_1340.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9993,
+    "edge_med": 3.157,
+    "whole_dark": 0.8817,
+    "sat_lit": 0.028,
+    "lit": 0.1068,
+    "dark_blue": 1.9738
+   }
+  },
+  {
+   "file": "DSC_1341.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.929,
+    "whole_dark": 0.8632,
+    "sat_lit": 0.0132,
+    "lit": 0.0613,
+    "dark_blue": 3.9048
+   }
+  },
+  {
+   "file": "DSC_1342_2019-December-Spincula.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.8924,
+    "sat_lit": 0.0082,
+    "lit": 0.0454,
+    "dark_blue": 4.7478
+   }
+  },
+  {
+   "file": "DSC_1343-Edit.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.9129,
+    "sat_lit": 0.0141,
+    "lit": 0.0447,
+    "dark_blue": 8.6519
+   }
+  },
+  {
+   "file": "DSC_1346.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.9083,
+    "sat_lit": 0.0001,
+    "lit": 0.0485,
+    "dark_blue": 1.5217
+   }
+  },
+  {
+   "file": "DSC_1389.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.7384,
+    "sat_lit": 0.0979,
+    "lit": 0.2477,
+    "dark_blue": 0.7904
+   }
+  },
+  {
+   "file": "DSC_1396.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.8197,
+    "sat_lit": 0.0256,
+    "lit": 0.1744,
+    "dark_blue": 0.9664
+   }
+  },
+  {
+   "file": "DSC_1439.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.8146,
+    "sat_lit": 0.0288,
+    "lit": 0.129,
+    "dark_blue": 1.983
+   }
+  },
+  {
+   "file": "DSC_1519.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.9375,
+    "sat_lit": 0.0018,
+    "lit": 0.0445,
+    "dark_blue": 2.8448
+   }
+  },
+  {
+   "file": "DSC_1540.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 1.228,
+    "whole_dark": 0.8051,
+    "sat_lit": 0.0058,
+    "lit": 0.1735,
+    "dark_blue": 1.933
+   }
+  },
+  {
+   "file": "DSC_1555.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 1.228,
+    "whole_dark": 0.8258,
+    "sat_lit": 0.0172,
+    "lit": 0.1145,
+    "dark_blue": 2.0536
+   }
+  },
+  {
+   "file": "DSC_1575.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9998,
+    "edge_med": 0.0,
+    "whole_dark": 0.7629,
+    "sat_lit": 0.0123,
+    "lit": 0.1632,
+    "dark_blue": 2.7214
+   }
+  },
+  {
+   "file": "DSC_1586.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 1.929,
+    "whole_dark": 0.7951,
+    "sat_lit": 0.0365,
+    "lit": 0.1564,
+    "dark_blue": 2.4162
+   }
+  },
+  {
+   "file": "DSC_1621-Edit.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9934,
+    "edge_med": 0.0,
+    "whole_dark": 0.7344,
+    "sat_lit": 0.0009,
+    "lit": 0.1659,
+    "dark_blue": 1.7431
+   }
+  },
+  {
+   "file": "DSC_1694.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9987,
+    "edge_med": 4.157,
+    "whole_dark": 0.7355,
+    "sat_lit": 0.002,
+    "lit": 0.2371,
+    "dark_blue": 2.4785
+   }
+  },
+  {
+   "file": "DSC_1722.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.8503,
+    "sat_lit": 0.0021,
+    "lit": 0.1282,
+    "dark_blue": 1.5138
+   }
+  },
+  {
+   "file": "DSC_1746-Edit.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.7985,
+    "sat_lit": 0.0228,
+    "lit": 0.1834,
+    "dark_blue": 1.3723
+   }
+  },
+  {
+   "file": "DSC_1760.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9998,
+    "edge_med": 1.228,
+    "whole_dark": 0.9257,
+    "sat_lit": 0.0024,
+    "lit": 0.0604,
+    "dark_blue": 2.163
+   }
+  },
+  {
+   "file": "DSC_1764.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 1.114,
+    "whole_dark": 0.9216,
+    "sat_lit": 0.0033,
+    "lit": 0.0627,
+    "dark_blue": 1.4682
+   }
+  },
+  {
+   "file": "DSC_1779.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9963,
+    "edge_med": 7.559,
+    "whole_dark": 0.8388,
+    "sat_lit": 0.0001,
+    "lit": 0.1016,
+    "dark_blue": 2.1775
+   }
+  },
+  {
+   "file": "DSC_1821.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.995,
+    "edge_med": 2.929,
+    "whole_dark": 0.8478,
+    "sat_lit": 0.0171,
+    "lit": 0.0908,
+    "dark_blue": 2.1049
+   }
+  },
+  {
+   "file": "DSC_1835.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9996,
+    "edge_med": 2.157,
+    "whole_dark": 0.9089,
+    "sat_lit": 0.0001,
+    "lit": 0.0811,
+    "dark_blue": 3.2218
+   }
+  },
+  {
+   "file": "DSC_1853.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9982,
+    "edge_med": 3.157,
+    "whole_dark": 0.9344,
+    "sat_lit": 0.0203,
+    "lit": 0.0564,
+    "dark_blue": 2.231
+   }
+  },
+  {
+   "file": "DSC_1912.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.8667,
+    "sat_lit": 0.0023,
+    "lit": 0.1019,
+    "dark_blue": 2.0774
+   }
+  },
+  {
+   "file": "DSC_2011.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9972,
+    "edge_med": 4.043,
+    "whole_dark": 0.8928,
+    "sat_lit": 0.003,
+    "lit": 0.0914,
+    "dark_blue": 2.0658
+   }
+  },
+  {
+   "file": "DSC_2052.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.9043,
+    "sat_lit": 0.011,
+    "lit": 0.054,
+    "dark_blue": 1.9788
+   }
+  },
+  {
+   "file": "DSC_2071.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9973,
+    "edge_med": 0.0,
+    "whole_dark": 0.8861,
+    "sat_lit": 0.0006,
+    "lit": 0.0839,
+    "dark_blue": 1.7716
+   }
+  },
+  {
+   "file": "DSC_2087.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9994,
+    "edge_med": 1.228,
+    "whole_dark": 0.9374,
+    "sat_lit": 0.0007,
+    "lit": 0.051,
+    "dark_blue": 1.8318
+   }
+  },
+  {
+   "file": "DSC_2096.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.9137,
+    "sat_lit": 0.0035,
+    "lit": 0.0727,
+    "dark_blue": 1.5884
+   }
+  },
+  {
+   "file": "DSC_2102.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.727,
+    "sat_lit": 0.0045,
+    "lit": 0.2511,
+    "dark_blue": 1.408
+   }
+  },
+  {
+   "file": "DSC_2106.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.7649,
+    "sat_lit": 0.0005,
+    "lit": 0.2057,
+    "dark_blue": 1.4062
+   }
+  },
+  {
+   "file": "DSC_2132.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.9024,
+    "sat_lit": 0.0075,
+    "lit": 0.0809,
+    "dark_blue": 1.5897
+   }
+  },
+  {
+   "file": "DSC_2158.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9998,
+    "edge_med": 1.0,
+    "whole_dark": 0.7714,
+    "sat_lit": 0.0051,
+    "lit": 0.1881,
+    "dark_blue": 1.2923
+   }
+  },
+  {
+   "file": "DSC_2193.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9996,
+    "edge_med": 0.0,
+    "whole_dark": 0.847,
+    "sat_lit": 0.0073,
+    "lit": 0.0329,
+    "dark_blue": 2.3921
+   }
+  },
+  {
+   "file": "DSC_2355.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9998,
+    "edge_med": 0.0,
+    "whole_dark": 0.7742,
+    "sat_lit": 0.0053,
+    "lit": 0.153,
+    "dark_blue": 1.8542
+   }
+  },
+  {
+   "file": "DSC_2370.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.8092,
+    "sat_lit": 0.0305,
+    "lit": 0.0936,
+    "dark_blue": 2.231
+   }
+  },
+  {
+   "file": "DSC_2430.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.9548,
+    "sat_lit": 0.0008,
+    "lit": 0.0172,
+    "dark_blue": 1.8226
+   }
+  },
+  {
+   "file": "DSC_2511.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.7997,
+    "sat_lit": 0.0301,
+    "lit": 0.1799,
+    "dark_blue": 1.4592
+   }
+  },
+  {
+   "file": "DSC_25112020.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9999,
+    "edge_med": 0.0,
+    "whole_dark": 0.8037,
+    "sat_lit": 0.024,
+    "lit": 0.1779,
+    "dark_blue": 1.3701
+   }
+  },
+  {
+   "file": "DSC_25802020.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9999,
+    "edge_med": 0.0,
+    "whole_dark": 0.7843,
+    "sat_lit": 0.0,
+    "lit": 0.189,
+    "dark_blue": 1.4872
+   }
+  },
+  {
+   "file": "DSC_26982020.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9993,
+    "edge_med": 1.228,
+    "whole_dark": 0.9087,
+    "sat_lit": 0.0002,
+    "lit": 0.0734,
+    "dark_blue": 2.0654
+   }
+  },
+  {
+   "file": "DSC_27172020.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.8916,
+    "sat_lit": 0.0926,
+    "lit": 0.0998,
+    "dark_blue": 0.9001
+   }
+  },
+  {
+   "file": "DSC_2795.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.8146,
+    "sat_lit": 0.0007,
+    "lit": 0.1433,
+    "dark_blue": 1.4282
+   }
+  },
+  {
+   "file": "DSC_2846_2020-January-Polychaeta.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9999,
+    "edge_med": 0.0,
+    "whole_dark": 0.7846,
+    "sat_lit": 0.005,
+    "lit": 0.188,
+    "dark_blue": 1.5263
+   }
+  },
+  {
+   "file": "DSC_2999.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 1.929,
+    "whole_dark": 0.8873,
+    "sat_lit": 0.0081,
+    "lit": 0.0759,
+    "dark_blue": 2.2613
+   }
+  },
+  {
+   "file": "DSC_30352020.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9962,
+    "edge_med": 0.0,
+    "whole_dark": 0.7998,
+    "sat_lit": 0.0228,
+    "lit": 0.109,
+    "dark_blue": 2.4802
+   }
+  },
+  {
+   "file": "DSC_3058.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9965,
+    "edge_med": 5.972,
+    "whole_dark": 0.8191,
+    "sat_lit": 0.018,
+    "lit": 0.0484,
+    "dark_blue": 2.5669
+   }
+  },
+  {
+   "file": "DSC_3113.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.8432,
+    "sat_lit": 0.0238,
+    "lit": 0.1205,
+    "dark_blue": 2.5399
+   }
+  },
+  {
+   "file": "DSC_3185.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9987,
+    "edge_med": 5.146,
+    "whole_dark": 0.8892,
+    "sat_lit": 0.0035,
+    "lit": 0.0907,
+    "dark_blue": 2.9476
+   }
+  },
+  {
+   "file": "DSC_3227.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9999,
+    "edge_med": 0.0,
+    "whole_dark": 0.9029,
+    "sat_lit": 0.0126,
+    "lit": 0.052,
+    "dark_blue": 2.9679
+   }
+  },
+  {
+   "file": "DSC_3233.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9983,
+    "edge_med": 0.0,
+    "whole_dark": 0.9138,
+    "sat_lit": 0.0284,
+    "lit": 0.0607,
+    "dark_blue": 3.2187
+   }
+  },
+  {
+   "file": "DSC_34042020.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.947,
+    "sat_lit": 0.0029,
+    "lit": 0.0353,
+    "dark_blue": 2.1709
+   }
+  },
+  {
+   "file": "DSC_34192020.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9991,
+    "edge_med": 3.157,
+    "whole_dark": 0.7766,
+    "sat_lit": 0.0135,
+    "lit": 0.161,
+    "dark_blue": 2.272
+   }
+  },
+  {
+   "file": "DSC_34212020.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.865,
+    "sat_lit": 0.0172,
+    "lit": 0.1211,
+    "dark_blue": 1.8419
+   }
+  },
+  {
+   "file": "DSC_3441.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.9319,
+    "sat_lit": 0.0,
+    "lit": 0.0559,
+    "dark_blue": 1.1415
+   }
+  },
+  {
+   "file": "DSC_34952020.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9983,
+    "edge_med": 0.0,
+    "whole_dark": 0.8655,
+    "sat_lit": 0.0933,
+    "lit": 0.1206,
+    "dark_blue": 0.7056
+   }
+  },
+  {
+   "file": "DSC_3593.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9947,
+    "edge_med": 0.0,
+    "whole_dark": 0.9228,
+    "sat_lit": 0.0116,
+    "lit": 0.0488,
+    "dark_blue": 3.4044
+   }
+  },
+  {
+   "file": "DSC_40982020.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9996,
+    "edge_med": 0.228,
+    "whole_dark": 0.8174,
+    "sat_lit": 0.0022,
+    "lit": 0.1599,
+    "dark_blue": 2.2078
+   }
+  },
+  {
+   "file": "_Y3A0034.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9999,
+    "edge_med": 1.0,
+    "whole_dark": 0.917,
+    "sat_lit": 0.0148,
+    "lit": 0.0508,
+    "dark_blue": 1.809
+   }
+  },
+  {
+   "file": "_Y3A0037.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9999,
+    "edge_med": 0.0,
+    "whole_dark": 0.9383,
+    "sat_lit": 0.0089,
+    "lit": 0.0389,
+    "dark_blue": 3.7835
+   }
+  },
+  {
+   "file": "_Y3A0081.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.7657,
+    "sat_lit": 0.0173,
+    "lit": 0.2275,
+    "dark_blue": 1.15
+   }
+  },
+  {
+   "file": "_Y3A0085.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.8026,
+    "sat_lit": 0.0148,
+    "lit": 0.1792,
+    "dark_blue": 1.1034
+   }
+  },
+  {
+   "file": "_Y3A0091.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.7988,
+    "sat_lit": 0.0094,
+    "lit": 0.1798,
+    "dark_blue": 1.1787
+   }
+  },
+  {
+   "file": "_Y3A0097.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.9342,
+    "sat_lit": 0.0059,
+    "lit": 0.0582,
+    "dark_blue": 3.1966
+   }
+  },
+  {
+   "file": "_Y3A0098.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.8997,
+    "sat_lit": 0.0073,
+    "lit": 0.0925,
+    "dark_blue": 1.771
+   }
+  },
+  {
+   "file": "_Y3A0102.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.9166,
+    "sat_lit": 0.0142,
+    "lit": 0.0683,
+    "dark_blue": 2.4368
+   }
+  },
+  {
+   "file": "_Y3A0153.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9922,
+    "edge_med": 0.0,
+    "whole_dark": 0.9303,
+    "sat_lit": 0.0002,
+    "lit": 0.0306,
+    "dark_blue": 1.7686
+   }
+  },
+  {
+   "file": "_Y3A0165.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.8696,
+    "sat_lit": 0.0024,
+    "lit": 0.0601,
+    "dark_blue": 1.9083
+   }
+  },
+  {
+   "file": "_Y3A0193.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9687,
+    "edge_med": 0.0,
+    "whole_dark": 0.7011,
+    "sat_lit": 0.0157,
+    "lit": 0.0709,
+    "dark_blue": 2.0144
+   }
+  },
+  {
+   "file": "_Y3A0208.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9961,
+    "edge_med": 1.929,
+    "whole_dark": 0.9136,
+    "sat_lit": 0.0172,
+    "lit": 0.0732,
+    "dark_blue": 1.8457
+   }
+  },
+  {
+   "file": "_Y3A0257.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9975,
+    "edge_med": 0.228,
+    "whole_dark": 0.8954,
+    "sat_lit": 0.0129,
+    "lit": 0.0559,
+    "dark_blue": 3.8009
+   }
+  },
+  {
+   "file": "_Y3A0272.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.8718,
+    "sat_lit": 0.0956,
+    "lit": 0.1159,
+    "dark_blue": 1.5288
+   }
+  },
+  {
+   "file": "_Y3A0374.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.8725,
+    "sat_lit": 0.009,
+    "lit": 0.0838,
+    "dark_blue": 2.0017
+   }
+  },
+  {
+   "file": "_Y3A0408.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9995,
+    "edge_med": 0.0,
+    "whole_dark": 0.8814,
+    "sat_lit": 0.0207,
+    "lit": 0.092,
+    "dark_blue": 4.3468
+   }
+  },
+  {
+   "file": "_Y3A0409.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 1.0,
+    "edge_med": 0.0,
+    "whole_dark": 0.8645,
+    "sat_lit": 0.0225,
+    "lit": 0.0962,
+    "dark_blue": 2.5299
+   }
+  },
+  {
+   "file": "_Y3A0445-Edit.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9998,
+    "edge_med": 0.0,
+    "whole_dark": 0.8457,
+    "sat_lit": 0.0187,
+    "lit": 0.1025,
+    "dark_blue": 3.1233
+   }
+  },
+  {
+   "file": "_Y3A0662-Edit.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.996,
+    "edge_med": 0.342,
+    "whole_dark": 0.7595,
+    "sat_lit": 0.0343,
+    "lit": 0.0757,
+    "dark_blue": 2.7286
+   }
+  },
+  {
+   "file": "_Y3A0915.jpg",
+   "cat": "keep",
+   "reason": "四周近黑",
+   "f": {
+    "edge_dark": 0.9999,
+    "edge_med": 0.0,
+    "whole_dark": 0.9144,
+    "sat_lit": 0.0192,
+    "lit": 0.0616,
+    "dark_blue": 0.9584
+   }
+  }
+ ],
+ "drop": [],
+ "review": []
+}
